@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently a sophomore at NIT Trichy, India.
+- 🌱 I’m currently learning mobile technologies and explore various technologies everyday!
+- 💬 Ask me about git, C++, C, Java, Python, Kotlin....
+- 📫 How to reach me: (Twitter)[https://twitter.com/Gowtham_B198]
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I love connecting with new people!
 <!--
 **GowthamGoush/GowthamGoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
