@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=7868E6&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Gowtham%2C;a+junior+from+NIT+Trichy%2C+India.)](https://git.io/typing-svg)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gowthamgoush&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamgoush" /> </p>
+
 ##
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -24,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://developer.android.com" target="_blank"> 
+  <a href="https://github.com/GowthamGoush/GowthamGoush/blob/main/bottom_header.svg" target="_blank"> 
    <img src="https://github.com/GowthamGoush/GowthamGoush/blob/main/bottom_header.svg" width="1000"/> 
   </a>
 </p>
